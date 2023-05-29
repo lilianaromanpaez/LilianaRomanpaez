@@ -1,0 +1,47 @@
+body{
+	padding: 0;
+	margin: 0;
+
+}
+img{
+	width: 60%;
+	border-radius: 150px;
+}
+.inicio{
+	background: linear-gradient(to top,rgba(30, 35, 38, 1), rgba(60, 4, 32, .5)),
+	url("../img/fondoo.jpg");
+	background-size: cover;
+	height: 150vh;
+	color: white;
+	padding-top: 100px;
+
+}
+.inicio .contenido-perfil{
+	padding: 20px;
+	background-color: rgba(0, 40, 90, .7);
+	max-width: 400px;
+	margin-left: 40px;
+	text-align: center;
+	border-radius: 10px;
+}
+.inicio .contenido-perfil h1{
+	margin-top: 40px;
+	font-size: 42px;
+	font-family: 'Righteous';
+}
+.inicio .contenido-perfil h2{
+	font-size: 20px;
+	font-family: 'Righteous';
+}
+.inicio .panel-informacion{
+	padding: 20px;
+	background: #4E82F7;
+	
+	margin-left: 25px;
+	border-radius: 10px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.contenido-informacion{
+	font-family: 'righteous';
+}
